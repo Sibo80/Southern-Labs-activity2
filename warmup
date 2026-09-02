@@ -1,0 +1,11 @@
+START
+
+
+INPUT age
+
+IF age >= 18 THEN
+     DISPLAY "Welcome To Southernlabs!"
+ELSE
+     DISPLAY "Acess Denied"
+END IF
+END

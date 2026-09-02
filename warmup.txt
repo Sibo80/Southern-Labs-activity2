@@ -1,0 +1,9 @@
+START
+  DISPLAY"Enter your age:'
+  INPUT age
+IF age >=18 THEN
+  DISPLAY " Welcome to southern labs"
+ELSE
+  DISPLAY "Access Denied"
+END IF
+END
